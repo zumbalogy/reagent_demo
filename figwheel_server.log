@@ -1,0 +1,436 @@
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.099 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+notifying browser that file changed:  /reagent_demo/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.103 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.111 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/foo at line 27 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.108 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 37 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/clock at line 25 src/cljs/reagent_demo/core.cljs
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 39 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.135 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/clock at line 25 src/cljs/reagent_demo/core.cljs
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 39 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.15 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 37 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 37 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.13 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 37 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.131 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 37 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.13 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/time-color at line 36 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.126 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.11 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.105 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.103 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.124 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.107 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.108 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+java.lang.AssertionError: No ns form found in env/dev/cljs/reagent_demo/dev.cljs
+ at cljs.analyzer$parse_ns$fn__2186.invoke (analyzer.clj:2091)
+    cljs.analyzer$parse_ns.invoke (analyzer.clj:2052)
+    cljs.analyzer$parse_ns.invoke (analyzer.clj:2043)
+    cljs.compiler$compile_root$fn__3109.invoke (compiler.clj:1168)
+    clojure.core$map$fn__4245.invoke (core.clj:2559)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core$map$fn__4245.invoke (core.clj:2551)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:30)
+    clojure.core.protocols/fn (protocols.clj:54)
+    clojure.core.protocols$fn__6031$G__6026__6044.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6289)
+    cljs.js_deps$build_index.invoke (js_deps.clj:126)
+    cljs.js_deps$dependency_order.invoke (js_deps.clj:166)
+    cljs.compiler$compile_root.invoke (compiler.clj:1169)
+    cljs.closure$compile_dir.invoke (closure.clj:369)
+    cljs.closure$eval3462$fn__3463.invoke (closure.clj:409)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    cljs.closure$eval3449$fn__3450.invoke (closure.clj:423)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:18)
+    clojure.core$map$fn__4245.invoke (core.clj:2557)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+java.lang.AssertionError: No ns form found in env/dev/cljs/reagent_demo/dev.cljs
+ at cljs.analyzer$parse_ns$fn__2186.invoke (analyzer.clj:2091)
+    cljs.analyzer$parse_ns.invoke (analyzer.clj:2052)
+    cljs.analyzer$parse_ns.invoke (analyzer.clj:2043)
+    cljs.compiler$compile_root$fn__3109.invoke (compiler.clj:1168)
+    clojure.core$map$fn__4245.invoke (core.clj:2559)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core$map$fn__4245.invoke (core.clj:2551)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:30)
+    clojure.core.protocols/fn (protocols.clj:54)
+    clojure.core.protocols$fn__6031$G__6026__6044.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6289)
+    cljs.js_deps$build_index.invoke (js_deps.clj:126)
+    cljs.js_deps$dependency_order.invoke (js_deps.clj:166)
+    cljs.compiler$compile_root.invoke (compiler.clj:1169)
+    cljs.closure$compile_dir.invoke (closure.clj:369)
+    cljs.closure$eval3462$fn__3463.invoke (closure.clj:409)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    cljs.closure$eval3449$fn__3450.invoke (closure.clj:423)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:18)
+    clojure.core$map$fn__4245.invoke (core.clj:2557)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.935 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: No such namespace: figwheel, could not locate figwheel.cljs or figwheel.cljc at line 13 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var figwheel/watch-and-reload at line 13 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: core, could not locate core.cljs or core.cljc at line 15 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var core/mount-root at line 15 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: weasel, could not locate weasel.cljs or weasel.cljc at line 17 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var weasel/connect at line 17 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: core, could not locate core.cljs or core.cljc at line 19 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var core/init! at line 19 env/dev/cljs/reagent_demo/dev.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.161 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /example/test_runner.js
+notifying browser that file changed:  /example/test_runner.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: No such namespace: figwheel, could not locate figwheel.cljs or figwheel.cljc at line 13 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var figwheel/watch-and-reload at line 13 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: core, could not locate core.cljs or core.cljc at line 15 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var core/mount-root at line 15 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: weasel, could not locate weasel.cljs or weasel.cljc at line 17 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var weasel/connect at line 17 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: No such namespace: core, could not locate core.cljs or core.cljc at line 19 env/dev/cljs/reagent_demo/dev.cljs
+WARNING: Use of undeclared Var core/init! at line 19 env/dev/cljs/reagent_demo/dev.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.149 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /example/test_runner.js
+notifying browser that file changed:  /reagent_demo/dev.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.071 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.111 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+notifying browser that file changed:  /reagent_demo/dev.js
+notifying browser that file changed:  /reagent_demo/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.166 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+notifying browser that file changed:  /reagent_demo/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.126 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+notifying browser that file changed:  /reagent_demo/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.088 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/dev.js
+notifying browser that file changed:  /reagent_demo/dev.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.13 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.448 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.124 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.137 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.11 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.112 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.114 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.114 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.111 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.138 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.107 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.109 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.115 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/reagent_demo/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4403)
+    cljs.compiler$compile_file$fn__3088.invoke (compiler.clj:1140)
+    cljs.compiler$compile_file.invoke (compiler.clj:1105)
+    cljs.compiler$compile_root.invoke (compiler.clj:1175)
+    cljs.closure$compile_dir.invoke (closure.clj:369)
+    cljs.closure$eval3462$fn__3463.invoke (closure.clj:409)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    cljs.closure$eval3449$fn__3450.invoke (closure.clj:423)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:18)
+    clojure.core$map$fn__4245.invoke (core.clj:2557)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core$apply.invoke (core.clj:624)
+    clojure.core$mapcat.doInvoke (core.clj:2586)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:18)
+    cljs.closure$build.invoke (closure.clj:1437)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:150)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17396.invoke (auto_builder.clj:66)
+    figwheel_sidecar.auto_builder$warning$fn__17393.invoke (auto_builder.clj:61)
+    clojurescript_build.auto$time_build$fn__17206.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17215.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17209.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__17227.invoke (auto.clj:103)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.124 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.153 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/color at line 19 src/cljs/reagent_demo/core.cljs
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.128 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.156 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 34 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/reagent_demo/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4403)
+    cljs.compiler$compile_file$fn__3088.invoke (compiler.clj:1140)
+    cljs.compiler$compile_file.invoke (compiler.clj:1105)
+    cljs.compiler$compile_root.invoke (compiler.clj:1175)
+    cljs.closure$compile_dir.invoke (closure.clj:369)
+    cljs.closure$eval3462$fn__3463.invoke (closure.clj:409)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    cljs.closure$eval3449$fn__3450.invoke (closure.clj:423)
+    cljs.closure$eval3398$fn__3399$G__3389__3406.invoke (closure.clj:316)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:18)
+    clojure.core$map$fn__4245.invoke (core.clj:2557)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:484)
+    clojure.core$seq.invoke (core.clj:133)
+    clojure.core$apply.invoke (core.clj:624)
+    clojure.core$mapcat.doInvoke (core.clj:2586)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:18)
+    cljs.closure$build.invoke (closure.clj:1437)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:150)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17396.invoke (auto_builder.clj:66)
+    figwheel_sidecar.auto_builder$warning$fn__17393.invoke (auto_builder.clj:61)
+    clojurescript_build.auto$time_build$fn__17206.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17212.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17215.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17209.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__17227.invoke (auto.clj:103)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 33 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.132 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/interval at line 36 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 33 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var reagent-demo.core/timer at line 33 src/cljs/reagent_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.116 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.106 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.11 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.107 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.107 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /reagent_demo/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.108 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /reagent_demo/core.js
