@@ -26,7 +26,6 @@
 
 (defonce timer (atom (js/Date.)))
 
-
 (defn rand-hex-char []
   (char (rand-nth (concat (range 48 58) (range 66 72)))))
 
@@ -37,7 +36,7 @@
   (reset! color (rand-hex))
   (reset! timer (js/Date.)))
 
-(defonce time-updater (js/setInterval interval 100))
+(defonce time-updater (js/setInterval interval 500))
 
 (defn clock []
   (let [time-str (-> @timer .toTimeString (clojure.string/split " ") first)]
@@ -63,8 +62,8 @@
 (secretary/defroute "/about" []
   (session/put! :current-page #'about-page))
 
-  (secretary/defroute "/clock" []
-    (session/put! :current-page #'clock-page))
+(secretary/defroute "/clock" []
+  (session/put! :current-page #'clock-page))
 
 ;; -------------------------
 ;; History
