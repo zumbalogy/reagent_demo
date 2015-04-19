@@ -26,8 +26,15 @@
 
 (defonce timer (atom (js/Date.)))
 
+
+(defn rand-hex-char []
+  (char (rand-nth (concat (range 48 58) (range 66 72)))))
+
+(defn rand-hex []
+  (str "#" (rand-hex-char) (rand-hex-char) (rand-hex-char)))
+
 (defn interval []
-  (reset! color (rand-nth ["blue" "green" "purple" "yellow"]))
+  (reset! color (rand-hex))
   (reset! timer (js/Date.)))
 
 (defonce time-updater (js/setInterval interval 100))
