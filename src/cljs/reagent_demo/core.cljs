@@ -9,12 +9,12 @@
               [reagent_demo.views.about_page :as AboutPage])
     (:import goog.History))
 
+;; -------------------------
+;; Routes
 
 (defn current-page []
   [:div [(session/get :current-page)]])
 
-;; -------------------------
-;; Routes
 (secretary/set-config! :prefix "#")
 
 (secretary/defroute "/" []
