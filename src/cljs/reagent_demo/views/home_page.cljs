@@ -42,12 +42,6 @@
   (js/clearTimeout @timeout-atom)
   (reset! timeout-atom (js/setTimeout note-off 300)))
 
-(defn rand-hex-char []
-  (char (rand-nth (concat (range 48 58) (range 66 72)))))
-
-(defn rand-hex []
-  (str "#" (rand-hex-char) (rand-hex-char) (rand-hex-char)))
-
 (defn hex-char [n]
   (let [chars (concat (range 48 58) (range 66 71))]
     (char (nth chars (quot n 5)))))
@@ -74,6 +68,12 @@
     [:div [:a {:href "#/about"} "go to about page"]]
     [:br]
     (button-grid)])
+
+; (defn rand-hex-char []
+;   (char (rand-nth (concat (range 48 58) (range 66 72)))))
+;
+; (defn rand-hex []
+;   (str "#" (rand-hex-char) (rand-hex-char) (rand-hex-char)))
 
 ;
 ; (defn swap-color! [color]
