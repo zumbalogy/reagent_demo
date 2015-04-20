@@ -51,14 +51,14 @@
 
 (defn note-button [note] [:button {:on-mouse-down #(note-on note) :on-mouse-up note-off} note])
 (defn note-button2 [note] [:button {:on-mouse-down #(note-on2 note) :on-mouse-up note-off2} (str note " 2")])
-(defn note-button3 [n1 n2] [:button {:on-mouse-down #(note-on3 n1 n2) :on-mouse-up note-off3} (str n1 " " n2)])
+(defn note-button3 [n1 n2] [:button {:style {:height "40px" :border 0 :margin "1px"} :on-mouse-down #(note-on3 n1 n2) :on-mouse-up note-off3} (str n1 "-" n2)])
 
 (defn button-row [n]
-  [:span (map #(note-button3 n %) (range 10 100 10))
+  [:span (map #(note-button3 n %) (range 10 100 8))
     [:br]])
 
 (defn button-grid [n]
-  (map #(button-row %) (range 10 n 10)))
+  (map #(button-row %) (range 10 n 8)))
 
 (defn main []
    [:div [:h2 "Welcome to reagent_demo"]
