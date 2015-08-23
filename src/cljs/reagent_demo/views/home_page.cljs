@@ -64,36 +64,7 @@
   (map #(button-row %) grid-range))
 
 (defn main []
-  [:div [:h2 "Welcome to the bla"]
+  [:div [:h2 "Welcome to the home page"]
     [:div [:a {:href "#/about"} "go to about page"]]
     [:br]
     (button-grid)])
-
-; (defn rand-hex-char []
-;   (char (rand-nth (concat (range 48 58) (range 66 72)))))
-;
-; (defn rand-hex []
-;   (str "#" (rand-hex-char) (rand-hex-char) (rand-hex-char)))
-
-;
-; (defn swap-color! [color]
-;   (reset! color (rand-hex)))
-
-; (defn main []
-;   (let [color (atom "red")]
-;     (fn []
-;       (js/setTimeout #(swap-color! color) 500)
-;        [:div [:h2 {:style {:color @color} :on-click #(js/alert "asdf")} "Welcome to reagent_demo"]
-;         [:div [:a {:href "#/about"} "go to about page"]]
-;         (note-button 44)
-;         (note-button 55)])))
-
-; (defn main []
-;   (let [seconds (atom 0)
-;         click-count (atom 0)]
-;     (fn []
-;       (js/setTimeout #(swap! seconds inc) 1000)
-;       [:div
-;        "Seconds Elapsed: " @seconds
-;        [:div {:on-click #(swap! click-count inc)}
-;         "I have been clicked " @click-count " times."]])))
