@@ -40,22 +40,15 @@
         #(callback buffer))))
     (.readAsArrayBuffer reader file)))
 
-
-
-(def url "http://static.kevvv.in/sounds/callmemaybe.mp3")
-
-contexts = [new AudioContext,new AudioContext,new AudioContext,new AudioContext, new AudioContext, new AudioContext]
-
-(def contexts
-  [(new window/webkitAudioContext)
-    (new window/webkitAudioContext)
-    (new window/webkitAudioContext)
-    (new window/webkitAudioContext)
-    (new window/webkitAudioContext)
-    (new window/webkitAudioContext)])
+; (def contexts
+;   [(new window/webkitAudioContext)
+;     (new window/webkitAudioContext)
+;     (new window/webkitAudioContext)
+;     (new window/webkitAudioContext)
+;     (new window/webkitAudioContext)])
 
 (defn play-clip [url, position, duration]
-  (let [ac (new window/webkitAudioContext)
+  (let [ac (new window/AudioContext)
         xhr (new window/XMLHttpRequest)]
     (.open xhr "get" url true)
     (set! (.-responseType xhr) "arraybuffer")
@@ -65,13 +58,14 @@ contexts = [new AudioContext,new AudioContext,new AudioContext,new AudioContext,
           (fn [buffer]
             (let [source (.createBufferSource ac)]
               (set! (.-buffer source) buffer)
-              (.connect source (.-destication ac))
+              (.connect source (aget ac "destination"))
               (.start source (.-currentTime ac) position)
               (.setTimeout js/window
                 #(.stop source 0)
                 (* duration 1000)))))))
     (.send xhr)))
 
+(def url "http://static.kevvv.in/sounds/callmemaybe.mp3")
 (play-clip url 3 5)
 
 ; x = 0
