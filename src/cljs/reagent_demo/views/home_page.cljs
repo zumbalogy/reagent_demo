@@ -64,7 +64,7 @@
   (map #(button-row %) grid-range))
 
 (defn main []
-   [:div [:h2 "Welcome to reagent_demo"]
+  [:div [:h2 "Welcome to the bla"]
     [:div [:a {:href "#/about"} "go to about page"]]
     [:br]
     (button-grid)])
